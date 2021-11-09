@@ -13,7 +13,7 @@ Eventually:
 
 
 ## Instructions
-Click squares_stats.ipynb to see outputs of analysis on GitHub
+Click **squares_stats.ipynb** to see outputs of analysis on GitHub
 
-Alternatively, download squares_scraping.ipynb and run to get data.csv (or just download data.csv)
-Then run squares_stats.ipynb
+Alternatively, download **squares_scraping.ipynb** and run to get **data.csv** (or just download **data.csv**)
+Then run **squares_stats.ipynb**
