@@ -9,5 +9,11 @@ Eventually:
 2- allow for user input for the payouts
 
 ## Files
-**squares_scraping**: run first - it creates the cleaned data
-**squares_stats**: analysis with markdown
+**squares_scraping**: creates the cleaned data (**data.csv**) for **squares_stats**
+
+
+## Instructions
+Click squares_stats.ipynb to see outputs of analysis on GitHub
+
+Alternatively, download squares_scraping.ipynb and run to get data.csv (or just download data.csv)
+Then run squares_stats.ipynb
