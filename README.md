@@ -20,3 +20,7 @@ Then run **squares_stats.ipynb**
 
 
 **playoff_squares_stats.ipynb** is the same analysis but with all NFL playoff data. Instead of AFC vs NFC the data is Away vs Home. Note: Super Bowl host switches conferences every year
+
+**vikings_playoffs_stats.ipynb** is similar analysis but with Minnesota Vikings on the x-axis, and Opponents on the y-axis
+
+**playoff_stats_functions** (not ready yet and I didn't feel like creating a new branch)will be a notebook where the user can input their team and see the results from vikings_playoffs_stats but with their team.
