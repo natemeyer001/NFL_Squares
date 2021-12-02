@@ -1,0 +1,535 @@
+Away,Home,Away score,Home score,Line,Over/Under,Away Rushing,Home Rushing,Away Passing,Home Passing
+Green Bay Packers,Dallas Cowboys,34,27,Green Bay Packers -7.0,-1,102,187,28,31
+Kansas City Chiefs,Green Bay Packers,10,35,Green Bay Packers -14.0,0.0 (over),72,130,32,24
+Kansas City Chiefs,Buffalo Bills,31,7,Kansas City Chiefs -3.5,-1,113,40,24,27
+Los Angeles Rams,Green Bay Packers,7,28,Los Angeles Rams -3.0,-1,75,163,31,23
+Cleveland Browns,Dallas Cowboys,14,52,Dallas Cowboys -5.0,-1,159,178,30,15
+Dallas Cowboys,Green Bay Packers,17,21,Green Bay Packers -7.0,-1,92,80,26,24
+Oakland Raiders,Green Bay Packers,14,33,Green Bay Packers -13.5,43.0 (over),107,160,34,24
+Houston Oilers,Oakland Raiders,7,40,Oakland Raiders -10.0,-1,38,263,35,26
+Dallas Cowboys,Cleveland Browns,20,31,Dallas Cowboys -3.0,-1,86,102,32,25
+Minnesota Vikings,Baltimore Colts,14,24,Baltimore Colts -11.0,-1,85,50,44,22
+Baltimore Colts,Cleveland Browns,34,0,Baltimore Colts -6.0,-1,184,56,25,32
+New York Jets,Baltimore Colts,16,7,Baltimore Colts -18.0,40.0 (under),142,143,29,41
+Kansas City Chiefs,Oakland Raiders,6,41,Kansas City Chiefs -3.5,-1,70,118,36,39
+Oakland Raiders,New York Jets,23,27,New York Jets -2.0,-1,50,144,47,49
+Los Angeles Rams,Minnesota Vikings,20,23,Minnesota Vikings -7.0,-1,126,97,32,19
+Cleveland Browns,Dallas Cowboys,38,14,Dallas Cowboys -7.0,-1,97,100,29,29
+Cleveland Browns,Minnesota Vikings,7,27,Minnesota Vikings -8.0,-1,97,222,33,13
+Minnesota Vikings,Kansas City Chiefs,7,23,Minnesota Vikings -12.0,39.0 (under),67,151,28,17
+Kansas City Chiefs,New York Jets,13,6,Kansas City Chiefs -2.5,-1,99,87,27,40
+Houston Oilers,Oakland Raiders,7,56,Oakland Raiders -13.0,-1,28,110,46,22
+Kansas City Chiefs,Oakland Raiders,17,7,Oakland Raiders -5.0,-1,86,79,17,45
+Cincinnati Bengals,Baltimore Colts,0,17,Baltimore Colts -7.0,-1,63,170,21,17
+Detroit Lions,Dallas Cowboys,0,5,Detroit Lions -3.0,-1,76,209,20,18
+Miami Dolphins,Oakland Raiders,14,21,Oakland Raiders -6.0,-1,118,120,27,16
+San Francisco 49ers,Minnesota Vikings,17,14,Minnesota Vikings -7.0,-1,96,117,32,27
+Oakland Raiders,Baltimore Colts,17,27,Oakland Raiders -1.5,-1,107,126,36,30
+Dallas Cowboys,San Francisco 49ers,17,10,San Francisco 49ers -4.0,-1,229,61,22,40
+Dallas Cowboys,Baltimore Colts,13,16,Baltimore Colts -2.5,36.0 (under),104,69,26,25
+Dallas Cowboys,Minnesota Vikings,20,12,Dallas Cowboys -1.0,-1,98,101,14,38
+Miami Dolphins,Kansas City Chiefs,27,24,Kansas City Chiefs -3.0,-1,144,213,35,26
+Baltimore Colts,Cleveland Browns,20,3,Baltimore Colts -4.0,-1,128,69,21,27
+Washington Redskins,San Francisco 49ers,20,24,San Francisco 49ers -5.5,-1,99,112,27,19
+San Francisco 49ers,Dallas Cowboys,3,14,Dallas Cowboys -5.0,-1,61,172,30,18
+Baltimore Colts,Miami Dolphins,0,21,Miami Dolphins -1.0,-1,89,144,36,8
+Miami Dolphins,Dallas Cowboys,3,24,Dallas Cowboys -6.0,34.0 (under),80,252,23,19
+Dallas Cowboys,San Francisco 49ers,30,28,Pick,-1,165,105,41,22
+Oakland Raiders,Pittsburgh Steelers,7,13,Pittsburgh Steelers -2.0,-1,138,108,30,25
+Cleveland Browns,Miami Dolphins,14,20,Miami Dolphins -12.5,-1,165,198,23,13
+Green Bay Packers,Washington Redskins,3,16,Washington Redskins -5.0,-1,78,138,24,14
+Miami Dolphins,Pittsburgh Steelers,21,17,Miami Dolphins -3.0,-1,193,128,16,20
+Dallas Cowboys,Washington Redskins,3,26,Washington Redskins -3.0,-1,96,122,21,18
+Washington Redskins,Miami Dolphins,7,14,Miami Dolphins -1.0,33.0 (under),141,184,28,11
+Washington Redskins,Minnesota Vikings,20,27,Minnesota Vikings -8.0,-1,155,141,24,28
+Pittsburgh Steelers,Oakland Raiders,14,33,Oakland Raiders -3.5,-1,65,232,25,17
+Los Angeles Rams,Dallas Cowboys,16,27,Dallas Cowboys -2.5,-1,93,162,24,16
+Cincinnati Bengals,Miami Dolphins,16,34,Miami Dolphins -10.0,-1,97,241,27,19
+Oakland Raiders,Miami Dolphins,10,27,Miami Dolphins -7.0,-1,107,266,23,6
+Minnesota Vikings,Dallas Cowboys,27,10,Dallas Cowboys -1.0,-1,203,90,21,21
+Minnesota Vikings,Miami Dolphins,7,24,Miami Dolphins -6.5,33.0 (under),72,196,28,7
+St. Louis Cardinals,Minnesota Vikings,14,30,Minnesota Vikings -7.0,-1,100,199,40,23
+Miami Dolphins,Oakland Raiders,26,28,Oakland Raiders -3.0,-1,213,135,14,30
+Buffalo Bills,Pittsburgh Steelers,14,32,Pittsburgh Steelers -6.5,-1,100,235,26,21
+Washington Redskins,Los Angeles Rams,10,19,Los Angeles Rams -2.5,-1,49,131,30,24
+Los Angeles Rams,Minnesota Vikings,10,14,Minnesota Vikings -5.5,-1,121,164,23,20
+Pittsburgh Steelers,Oakland Raiders,24,13,Oakland Raiders -5.5,-1,224,29,17,36
+Pittsburgh Steelers,Minnesota Vikings,16,6,Pittsburgh Steelers -3.0,33.0 (under),249,17,14,26
+Baltimore Colts,Pittsburgh Steelers,10,28,Pittsburgh Steelers -10.5,-1,82,211,22,13
+St. Louis Cardinals,Los Angeles Rams,23,35,Los Angeles Rams -6.5,-1,95,237,41,23
+Dallas Cowboys,Minnesota Vikings,17,14,Minnesota Vikings -8.0,-1,131,115,29,26
+Cincinnati Bengals,Oakland Raiders,28,31,Oakland Raiders -6.5,-1,97,173,27,23
+Dallas Cowboys,Los Angeles Rams,37,7,Los Angeles Rams -6.5,-1,195,22,28,24
+Oakland Raiders,Pittsburgh Steelers,10,16,Pittsburgh Steelers -6.5,-1,93,117,42,25
+Pittsburgh Steelers,Dallas Cowboys,21,17,Pittsburgh Steelers -7.0,36.0 (over),149,108,19,24
+Washington Redskins,Minnesota Vikings,20,35,Minnesota Vikings -6.0,-1,75,221,49,22
+New England Patriots,Oakland Raiders,21,24,Oakland Raiders -8.0,-1,164,81,24,32
+Pittsburgh Steelers,Baltimore Colts,40,14,Pittsburgh Steelers -3.5,-1,225,71,24,25
+Los Angeles Rams,Dallas Cowboys,14,12,Dallas Cowboys -3.5,-1,120,85,21,37
+Los Angeles Rams,Minnesota Vikings,13,24,Minnesota Vikings -5.0,-1,193,158,22,27
+Pittsburgh Steelers,Oakland Raiders,7,24,Pittsburgh Steelers -4.0,-1,72,157,35,16
+Oakland Raiders,Minnesota Vikings,32,14,Oakland Raiders -4.0,38.0 (over),266,71,19,44
+Pittsburgh Steelers,Denver Broncos,21,34,Denver Broncos -2.0,-1,127,103,37,23
+Oakland Raiders,Baltimore Colts,37,31,Oakland Raiders -3.0,-1,167,187,40,26
+Chicago Bears,Dallas Cowboys,7,37,Dallas Cowboys -10.0,-1,81,233,25,14
+Minnesota Vikings,Los Angeles Rams,14,7,Los Angeles Rams -8.0,-1,144,149,10,32
+Minnesota Vikings,Dallas Cowboys,6,23,Dallas Cowboys -11.0,-1,66,170,31,23
+Oakland Raiders,Denver Broncos,17,20,Oakland Raiders -4.0,-1,94,91,35,20
+Denver Broncos,Dallas Cowboys,10,27,Dallas Cowboys -6.0,39.0 (under),121,143,25,28
+Philadelphia Eagles,Atlanta Falcons,13,14,Atlanta Falcons -2.5,-1,53,75,35,32
+Houston Oilers,Miami Dolphins,17,9,Miami Dolphins -6.5,-1,165,91,30,30
+Atlanta Falcons,Dallas Cowboys,20,27,Dallas Cowboys -15.0,-1,164,148,23,37
+Denver Broncos,Pittsburgh Steelers,10,33,Pittsburgh Steelers -7.0,-1,87,153,22,29
+Minnesota Vikings,Los Angeles Rams,10,34,Los Angeles Rams -7.5,-1,36,200,38,29
+Houston Oilers,New England Patriots,31,14,New England Patriots -6.0,-1,174,83,15,35
+Dallas Cowboys,Los Angeles Rams,28,0,Dallas Cowboys -3.5,-1,126,81,25,35
+Houston Oilers,Pittsburgh Steelers,5,34,Pittsburgh Steelers -7.0,-1,72,179,26,19
+Pittsburgh Steelers,Dallas Cowboys,35,31,Pittsburgh Steelers -3.5,37.0 (over),66,154,30,30
+Denver Broncos,Houston Oilers,7,13,Houston Oilers -7.0,-1,112,135,27,22
+Chicago Bears,Philadelphia Eagles,17,27,Philadelphia Eagles -6.5,-1,99,139,30,23
+Philadelphia Eagles,Tampa Bay Buccaneers,17,24,Philadelphia Eagles -4.5,-1,48,186,38,15
+Houston Oilers,San Diego Chargers,17,14,San Diego Chargers -8.0,-1,148,63,19,47
+Miami Dolphins,Pittsburgh Steelers,14,34,Pittsburgh Steelers -9.5,-1,25,159,40,31
+Los Angeles Rams,Dallas Cowboys,21,19,Dallas Cowboys -8.5,-1,159,156,21,29
+Houston Oilers,Pittsburgh Steelers,13,27,Pittsburgh Steelers -9.5,-1,24,161,29,30
+Los Angeles Rams,Tampa Bay Buccaneers,9,0,Los Angeles Rams -3.5,-1,216,92,23,27
+Los Angeles Rams,Pittsburgh Steelers,19,31,Pittsburgh Steelers -10.0,36.0 (over),107,84,26,21
+Los Angeles Rams,Dallas Cowboys,13,34,Dallas Cowboys -3.0,46.0 (over),92,338,30,25
+Houston Oilers,Oakland Raiders,7,27,Houston Oilers -1.0,38.0 (under),97,111,27,23
+Minnesota Vikings,Philadelphia Eagles,16,31,Philadelphia Eagles -7.0,38.0 (over),36,126,39,38
+Buffalo Bills,San Diego Chargers,14,20,San Diego Chargers -6.0,41.0 (under),97,96,30,37
+Dallas Cowboys,Atlanta Falcons,30,27,Atlanta Falcons -2.5,45.0 (over),112,86,40,33
+Oakland Raiders,Cleveland Browns,14,12,Cleveland Browns -3.5,38.0 (under),76,85,30,40
+Dallas Cowboys,Philadelphia Eagles,7,20,Dallas Cowboys -1.0,43.0 (under),90,263,32,29
+Oakland Raiders,San Diego Chargers,34,27,San Diego Chargers -4.0,45.0 (over),138,83,18,46
+Oakland Raiders,Philadelphia Eagles,27,10,Philadelphia Eagles -3.0,37.5 (under),117,69,21,38
+Buffalo Bills,New York Jets,31,27,New York Jets -3.0,33.0 (over),91,71,34,50
+New York Giants,Philadelphia Eagles,27,21,Philadelphia Eagles -7.0,31.5 (over),183,93,14,24
+Tampa Bay Buccaneers,Dallas Cowboys,0,38,Dallas Cowboys -8.0,37.0 (over),74,212,29,26
+San Diego Chargers,Miami Dolphins,41,38,San Diego Chargers -2.5,43.0 (over),149,78,54,48
+Buffalo Bills,Cincinnati Bengals,21,28,Cincinnati Bengals -6.0,41.0 (over),134,136,31,21
+New York Giants,San Francisco 49ers,24,38,San Francisco 49ers -6.0,38.0 (over),65,135,37,31
+San Diego Chargers,Cincinnati Bengals,7,27,Cincinnati Bengals -4.5,45.0 (under),128,143,28,23
+Dallas Cowboys,San Francisco 49ers,27,28,Dallas Cowboys -3.0,42.0 (over),115,127,24,35
+San Francisco 49ers,Cincinnati Bengals,26,21,San Francisco 49ers -1.0,48.0 (under),127,72,22,34
+St. Louis Cardinals,Green Bay Packers,16,41,Green Bay Packers -4.5,37.5 (over),106,108,51,26
+New England Patriots,Miami Dolphins,13,28,Miami Dolphins -7.5,36.0 (over),77,214,30,19
+Cleveland Browns,Los Angeles Raiders,10,27,Los Angeles Raiders -8.5,44.5 (under),56,140,37,37
+Detroit Lions,Washington Redskins,7,31,Washington Redskins -6.0,37.0 (over),95,175,38,19
+Tampa Bay Buccaneers,Dallas Cowboys,17,30,Dallas Cowboys -8.0,38.5 (over),105,179,28,45
+Atlanta Falcons,Minnesota Vikings,24,30,Minnesota Vikings -2.0,46.5 (over),120,125,23,34
+New York Jets,Cincinnati Bengals,44,17,Cincinnati Bengals -4.0,44.5 (over),234,62,29,36
+San Diego Chargers,Pittsburgh Steelers,31,28,Pittsburgh Steelers -1.0,53.0 (over),146,97,42,39
+New York Jets,Los Angeles Raiders,17,14,Los Angeles Raiders -3.5,48.0 (under),139,93,24,33
+Minnesota Vikings,Washington Redskins,7,21,Washington Redskins -6.0,43.5 (under),79,204,39,23
+Green Bay Packers,Dallas Cowboys,26,37,Dallas Cowboys -7.0,48.0 (over),158,109,36,37
+San Diego Chargers,Miami Dolphins,13,34,San Diego Chargers -1.5,53.0 (under),79,214,34,23
+Dallas Cowboys,Washington Redskins,17,31,Dallas Cowboys -2.0,38.5 (over),65,137,44,20
+New York Jets,Miami Dolphins,0,14,Miami Dolphins -1.0,38.5 (under),62,138,37,21
+Washington Redskins,Miami Dolphins,27,17,Miami Dolphins -3.0,36.5 (over),276,96,23,17
+Denver Broncos,Seattle Seahawks,7,31,Seattle Seahawks -3.5,44.0 (under),125,145,34,13
+Los Angeles Rams,Dallas Cowboys,24,17,Dallas Cowboys -8.0,45.5 (under),94,63,31,53
+Detroit Lions,San Francisco 49ers,23,24,San Francisco 49ers -7.5,41.0 (over),188,103,38,31
+Seattle Seahawks,Miami Dolphins,27,20,Miami Dolphins -8.0,44.0 (over),151,128,29,26
+Pittsburgh Steelers,Los Angeles Raiders,10,38,Los Angeles Raiders -7.0,43.0 (over),162,188,27,34
+Los Angeles Rams,Washington Redskins,7,51,Washington Redskins -9.5,48.5 (over),51,130,43,25
+Seattle Seahawks,Los Angeles Raiders,14,30,Los Angeles Raiders -7.0,47.0 (under),65,205,36,24
+San Francisco 49ers,Washington Redskins,21,24,Washington Redskins -10.0,51.0 (under),87,172,48,27
+Washington Redskins,Los Angeles Raiders,9,38,Washington Redskins -2.0,48.0 (under),90,231,35,25
+Los Angeles Raiders,Seattle Seahawks,7,13,Los Angeles Raiders -1.5,40.0 (under),105,205,27,10
+New York Giants,Los Angeles Rams,16,13,Los Angeles Rams -4.5,38.0 (under),40,107,31,15
+Seattle Seahawks,Miami Dolphins,10,31,Miami Dolphins -5.5,45.0 (under),51,143,35,34
+New York Giants,San Francisco 49ers,10,21,San Francisco 49ers -12.0,41.0 (under),87,131,44,39
+Chicago Bears,Washington Redskins,23,19,Washington Redskins -9.0,38.0 (over),114,93,17,42
+Pittsburgh Steelers,Denver Broncos,24,17,Denver Broncos -4.5,36.0 (over),169,51,28,38
+Pittsburgh Steelers,Miami Dolphins,28,45,Miami Dolphins -10.0,44.0 (over),143,134,36,33
+Chicago Bears,San Francisco 49ers,0,23,San Francisco 49ers -10.0,40.0 (under),149,159,22,35
+San Francisco 49ers,Miami Dolphins,38,16,San Francisco 49ers -3.0,53.5 (over),211,25,35,50
+New England Patriots,New York Jets,26,14,New York Jets -3.0,37.0 (over),99,58,16,34
+San Francisco 49ers,New York Giants,3,17,San Francisco 49ers -3.0,41.0 (under),94,174,48,31
+Cleveland Browns,Miami Dolphins,21,24,Miami Dolphins -10.5,45.0 (push),251,92,19,45
+Dallas Cowboys,Los Angeles Rams,0,20,Los Angeles Rams -2.0,40.5 (under),61,269,43,22
+New York Giants,Chicago Bears,0,21,Chicago Bears -9.0,36.0 (under),32,147,35,21
+New England Patriots,Los Angeles Raiders,27,20,Los Angeles Raiders -5.5,40.0 (over),156,163,15,27
+Los Angeles Rams,Chicago Bears,0,24,Chicago Bears -10.5,34.0 (under),86,91,31,25
+New England Patriots,Miami Dolphins,31,14,Miami Dolphins -5.5,48.0 (under),255,68,12,48
+New England Patriots,Chicago Bears,10,46,Chicago Bears -10.0,37.5 (over),7,167,36,24
+Kansas City Chiefs,New York Jets,15,35,New York Jets -3.0,39.0 (over),67,165,37,23
+Los Angeles Rams,Washington Redskins,7,19,Washington Redskins -4.5,40.0 (under),198,138,18,23
+New York Jets,Cleveland Browns,20,23,Cleveland Browns -7.0,41.0 (over),104,75,30,65
+Washington Redskins,Chicago Bears,27,13,Chicago Bears -7.0,34.0 (over),134,93,32,31
+New England Patriots,Denver Broncos,17,22,Denver Broncos -4.0,43.0 (under),121,188,24,32
+San Francisco 49ers,New York Giants,3,49,New York Giants -3.0,39.0 (over),29,216,37,20
+Denver Broncos,Cleveland Browns,23,20,Cleveland Browns -3.0,38.0 (over),149,100,38,32
+Washington Redskins,New York Giants,0,17,New York Giants -7.0,38.0 (under),40,117,50,14
+New York Giants,Denver Broncos,39,20,New York Giants -9.0,41.0 (over),136,52,25,41
+Minnesota Vikings,New Orleans Saints,44,10,New Orleans Saints -6.5,46.0 (over),210,53,30,31
+Seattle Seahawks,Houston Oilers,20,23,Seattle Seahawks -2.5,45.0 (under),29,178,39,32
+Indianapolis Colts,Cleveland Browns,21,38,Cleveland Browns -8.0,37.0 (over),63,175,39,31
+Minnesota Vikings,San Francisco 49ers,36,24,San Francisco 49ers -11.0,47.0 (over),117,115,34,44
+Houston Oilers,Denver Broncos,10,34,Denver Broncos -10.0,46.0 (under),73,61,43,25
+Washington Redskins,Chicago Bears,21,17,Chicago Bears -4.5,38.0 (push),72,110,29,29
+Cleveland Browns,Denver Broncos,33,38,Denver Broncos -3.0,45.0 (over),128,156,41,26
+Minnesota Vikings,Washington Redskins,10,17,Washington Redskins -3.0,45.0 (under),76,161,39,26
+Washington Redskins,Denver Broncos,42,10,Denver Broncos -3.5,47.0 (over),280,97,30,39
+Houston Oilers,Cleveland Browns,24,23,Cleveland Browns -3.0,38.0 (over),129,68,26,28
+Los Angeles Rams,Minnesota Vikings,17,28,Minnesota Vikings -5.5,42.0 (over),107,103,45,28
+Philadelphia Eagles,Chicago Bears,12,20,Chicago Bears -5.5,38.0 (under),52,164,55,23
+Seattle Seahawks,Cincinnati Bengals,13,21,Cincinnati Bengals -6.5,46.0 (under),18,254,50,19
+Houston Oilers,Buffalo Bills,10,17,Buffalo Bills -3.5,37.0 (under),125,135,33,33
+Minnesota Vikings,San Francisco 49ers,9,34,San Francisco 49ers -3.5,44.0 (under),54,201,47,28
+Buffalo Bills,Cincinnati Bengals,10,21,Cincinnati Bengals -4.0,41.0 (under),45,175,30,20
+San Francisco 49ers,Chicago Bears,28,3,San Francisco 49ers -2.0,35.0 (under),138,91,27,41
+San Francisco 49ers,Cincinnati Bengals,20,16,San Francisco 49ers -6.0,46.0 (under),111,106,36,25
+Pittsburgh Steelers,Houston Oilers,26,23,Houston Oilers -7.0,43.0 (over),177,65,33,48
+Los Angeles Rams,Philadelphia Eagles,21,7,Philadelphia Eagles -3.0,39.0 (under),144,95,33,40
+Buffalo Bills,Cleveland Browns,30,34,Cleveland Browns -3.5,36.0 (over),49,90,54,29
+Minnesota Vikings,San Francisco 49ers,13,41,San Francisco 49ers -7.5,44.0 (over),86,162,54,25
+Pittsburgh Steelers,Denver Broncos,23,24,Denver Broncos -10.0,38.0 (over),175,138,29,20
+Los Angeles Rams,New York Giants,19,13,New York Giants -3.0,39.0 (under),146,171,44,30
+Cleveland Browns,Denver Broncos,21,37,Denver Broncos -3.5,40.0 (over),66,120,44,36
+Los Angeles Rams,San Francisco 49ers,3,30,San Francisco 49ers -7.0,46.0 (under),26,179,36,31
+San Francisco 49ers,Denver Broncos,55,10,San Francisco 49ers -13.0,48.0 (over),144,64,32,29
+Kansas City Chiefs,Miami Dolphins,16,17,Miami Dolphins -2.5,41.0 (under),103,98,30,30
+Washington Redskins,Philadelphia Eagles,20,6,Philadelphia Eagles -4.5,40.0 (under),93,148,31,32
+New Orleans Saints,Chicago Bears,6,16,Chicago Bears -6.5,32.0 (under),65,189,34,26
+Houston Oilers,Cincinnati Bengals,14,41,Cincinnati Bengals -3.5,42.0 (over),67,187,33,25
+Miami Dolphins,Buffalo Bills,34,44,Buffalo Bills -7.0,34.0 (over),107,154,49,29
+Washington Redskins,San Francisco 49ers,10,28,San Francisco 49ers -8.0,41.0 (under),80,46,48,32
+Chicago Bears,New York Giants,3,31,New York Giants -7.0,33.0 (over),27,194,36,17
+Cincinnati Bengals,Los Angeles Raiders,10,20,Los Angeles Raiders -6.0,43.0 (under),124,235,15,21
+Los Angeles Raiders,Buffalo Bills,3,51,Buffalo Bills -7.0,37.0 (over),151,202,39,23
+New York Giants,San Francisco 49ers,15,13,San Francisco 49ers -8.0,37.0 (under),152,39,29,27
+New York Giants,Buffalo Bills,20,19,Buffalo Bills -6.5,40.0 (under),172,166,32,30
+Atlanta Falcons,New Orleans Saints,27,20,New Orleans Saints -6.0,39.0 (over),79,65,30,44
+Los Angeles Raiders,Kansas City Chiefs,6,10,Kansas City Chiefs -5.0,36.0 (under),152,131,23,14
+Dallas Cowboys,Chicago Bears,17,13,Chicago Bears -3.0,37.0 (under),108,150,18,45
+New York Jets,Houston Oilers,10,17,Houston Oilers -9.0,44.0 (under),71,71,31,40
+Houston Oilers,Denver Broncos,24,26,Denver Broncos -3.5,37.0 (over),97,151,36,34
+Atlanta Falcons,Washington Redskins,7,24,Washington Redskins -11.5,43.0 (under),43,162,32,29
+Kansas City Chiefs,Buffalo Bills,14,37,Buffalo Bills -10.5,41.0 (over),77,180,29,35
+Dallas Cowboys,Detroit Lions,6,38,Pick,43.0 (over),97,84,29,38
+Denver Broncos,Buffalo Bills,7,10,Buffalo Bills -12.0,46.0 (under),81,104,33,25
+Detroit Lions,Washington Redskins,10,41,Washington Redskins -14.0,43.0 (over),72,117,42,17
+Washington Redskins,Buffalo Bills,37,24,Washington Redskins -7.0,48.0 (over),125,43,33,59
+Kansas City Chiefs,San Diego Chargers,0,17,San Diego Chargers -3.0,37.0 (under),61,192,34,23
+Washington Redskins,Minnesota Vikings,24,7,Minnesota Vikings -3.5,37.0 (under),196,73,25,20
+Houston Oilers,Buffalo Bills,38,41,Buffalo Bills -2.0,37.0 (over),82,98,50,34
+Philadelphia Eagles,New Orleans Saints,36,20,New Orleans Saints -3.5,35.0 (over),136,76,35,39
+Washington Redskins,San Francisco 49ers,13,20,San Francisco 49ers -9.5,39.0 (under),73,187,41,30
+Buffalo Bills,Pittsburgh Steelers,24,3,Pittsburgh Steelers -2.0,36.0 (under),169,129,23,29
+Philadelphia Eagles,Dallas Cowboys,10,34,Dallas Cowboys -6.5,38.0 (over),63,160,30,25
+San Diego Chargers,Miami Dolphins,0,31,Miami Dolphins -2.0,37.0 (under),70,157,45,29
+Dallas Cowboys,San Francisco 49ers,30,20,San Francisco 49ers -4.0,37.0 (over),121,114,34,35
+Buffalo Bills,Miami Dolphins,29,10,Buffalo Bills -2.5,41.0 (under),182,33,24,45
+Dallas Cowboys,Buffalo Bills,52,17,Dallas Cowboys -6.5,45.0 (over),137,108,30,38
+Green Bay Packers,Detroit Lions,28,24,Detroit Lions -1.5,38.5 (over),89,175,26,31
+Pittsburgh Steelers,Kansas City Chiefs,24,27,Kansas City Chiefs -7.5,36.0 (over),97,125,42,44
+Minnesota Vikings,New York Giants,10,17,New York Giants -6.5,33.0 (under),79,176,34,26
+Denver Broncos,Los Angeles Raiders,24,42,Los Angeles Raiders -2.0,41.0 (over),56,136,54,19
+Los Angeles Raiders,Buffalo Bills,23,29,Buffalo Bills -7.0,33.5 (over),110,75,20,37
+New York Giants,San Francisco 49ers,3,44,San Francisco 49ers -8.0,41.5 (over),41,178,35,24
+Green Bay Packers,Dallas Cowboys,17,27,Dallas Cowboys -13.5,42.0 (over),31,97,45,37
+Kansas City Chiefs,Houston Oilers,28,20,Houston Oilers -7.0,41.5 (over),71,39,38,43
+Kansas City Chiefs,Buffalo Bills,13,30,Buffalo Bills -3.0,39.0 (over),52,229,52,27
+San Francisco 49ers,Dallas Cowboys,21,38,Dallas Cowboys -3.0,48.0 (over),84,124,45,28
+Dallas Cowboys,Buffalo Bills,30,13,Dallas Cowboys -10.5,50.0 (under),137,87,27,50
+Detroit Lions,Green Bay Packers,12,16,Green Bay Packers -4.5,40.0 (under),-4,81,35,38
+Kansas City Chiefs,Miami Dolphins,17,27,Miami Dolphins -3.0,45.0 (under),100,132,37,29
+Chicago Bears,Minnesota Vikings,35,18,Minnesota Vikings -6.0,38.0 (over),94,49,23,61
+New England Patriots,Cleveland Browns,13,20,Cleveland Browns -3.0,35.5 (under),57,125,51,30
+Cleveland Browns,Pittsburgh Steelers,9,29,Pittsburgh Steelers -3.5,32.5 (over),55,238,31,23
+Chicago Bears,San Francisco 49ers,15,44,San Francisco 49ers -15.5,46.5 (over),39,145,47,26
+Green Bay Packers,Dallas Cowboys,9,35,Dallas Cowboys -10.0,43.0 (over),99,120,46,32
+Miami Dolphins,San Diego Chargers,21,22,San Diego Chargers -3.0,46.0 (under),26,202,38,43
+San Diego Chargers,Pittsburgh Steelers,17,13,Pittsburgh Steelers -6.0,35.0 (under),66,66,22,54
+Dallas Cowboys,San Francisco 49ers,28,38,San Francisco 49ers -7.0,48.0 (over),99,139,53,29
+San Francisco 49ers,San Diego Chargers,49,26,San Francisco 49ers -19.0,52.0 (over),139,67,38,55
+Miami Dolphins,Buffalo Bills,22,37,Buffalo Bills -3.5,42.5 (over),70,341,66,22
+Detroit Lions,Philadelphia Eagles,37,58,Detroit Lions -3.0,42.0 (over),72,189,52,25
+Indianapolis Colts,San Diego Chargers,35,20,San Diego Chargers -5.5,40.0 (over),178,145,27,47
+Atlanta Falcons,Green Bay Packers,20,37,Green Bay Packers -9.5,44.0 (over),21,117,54,35
+Buffalo Bills,Pittsburgh Steelers,21,40,Pittsburgh Steelers -6.0,42.0 (over),94,147,39,35
+Green Bay Packers,San Francisco 49ers,27,17,San Francisco 49ers -9.5,52.0 (under),74,87,28,65
+Philadelphia Eagles,Dallas Cowboys,11,30,Dallas Cowboys -13.5,45.5 (under),74,153,31,24
+Indianapolis Colts,Kansas City Chiefs,10,7,Kansas City Chiefs -8.0,41.5 (under),147,129,27,33
+Green Bay Packers,Dallas Cowboys,27,38,Dallas Cowboys -9.0,50.5 (over),48,169,39,33
+Indianapolis Colts,Pittsburgh Steelers,16,20,Pittsburgh Steelers -11.0,43.0 (under),83,80,34,41
+Pittsburgh Steelers,Dallas Cowboys,17,27,Dallas Cowboys -13.5,51.0 (under),103,56,49,23
+Minnesota Vikings,Dallas Cowboys,15,40,Dallas Cowboys -10.0,40.0 (over),63,255,27,31
+Jacksonville Jaguars,Buffalo Bills,30,27,Buffalo Bills -8.5,38.0 (over),184,92,33,36
+Indianapolis Colts,Pittsburgh Steelers,14,42,Pittsburgh Steelers -8.0,37.0 (over),41,231,33,22
+Philadelphia Eagles,San Francisco 49ers,0,14,San Francisco 49ers -10.5,42.0 (under),71,118,33,21
+San Francisco 49ers,Green Bay Packers,14,35,Green Bay Packers -5.0,41.5 (over),68,139,41,15
+Jacksonville Jaguars,Denver Broncos,30,27,Denver Broncos -12.5,43.5 (over),203,126,29,38
+Dallas Cowboys,Carolina Panthers,17,26,Dallas Cowboys -3.5,37.5 (over),96,127,36,22
+Pittsburgh Steelers,New England Patriots,3,28,New England Patriots -3.0,41.5 (under),123,194,39,26
+Carolina Panthers,Green Bay Packers,13,30,Green Bay Packers -12.0,39.0 (over),45,201,37,29
+Jacksonville Jaguars,New England Patriots,6,20,New England Patriots -7.5,44.0 (under),101,73,38,33
+New England Patriots,Green Bay Packers,21,35,Green Bay Packers -14.0,52.0 (over),43,115,48,27
+Jacksonville Jaguars,Denver Broncos,17,42,Denver Broncos -6.5,45.5 (over),50,310,32,24
+Minnesota Vikings,New York Giants,23,22,New York Giants -4.5,38.0 (over),106,76,36,32
+Miami Dolphins,New England Patriots,3,17,New England Patriots -5.0,41.5 (under),42,108,43,32
+Detroit Lions,Tampa Bay Buccaneers,10,20,Tampa Bay Buccaneers -3.0,38.5 (under),109,141,40,26
+New England Patriots,Pittsburgh Steelers,6,7,Pittsburgh Steelers -6.0,42.0 (under),36,145,44,31
+Minnesota Vikings,San Francisco 49ers,22,38,San Francisco 49ers -11.5,42.0 (over),57,175,40,30
+Tampa Bay Buccaneers,Green Bay Packers,7,21,Green Bay Packers -13.0,38.0 (under),90,118,37,28
+Denver Broncos,Kansas City Chiefs,14,10,Pick,41.0 (under),109,77,19,37
+Green Bay Packers,San Francisco 49ers,23,10,Green Bay Packers -1.5,43.5 (under),106,33,27,38
+Denver Broncos,Pittsburgh Steelers,24,21,Pittsburgh Steelers -1.0,41.0 (over),150,161,31,36
+Green Bay Packers,Denver Broncos,24,31,Green Bay Packers -11.0,50.0 (over),95,179,42,22
+Arizona Cardinals,Dallas Cowboys,20,7,Dallas Cowboys -7.0,42.0 (under),133,96,36,49
+Buffalo Bills,Miami Dolphins,17,24,Miami Dolphins -2.5,43.0 (under),77,117,36,34
+New England Patriots,Jacksonville Jaguars,10,25,Jacksonville Jaguars -8.5,41.0 (under),35,160,44,34
+Green Bay Packers,San Francisco 49ers,27,30,San Francisco 49ers -3.0,49.5 (over),121,178,35,32
+San Francisco 49ers,Atlanta Falcons,18,20,Atlanta Falcons -3.5,53.0 (under),46,136,37,19
+Miami Dolphins,Denver Broncos,3,38,Denver Broncos -13.5,48.0 (under),14,250,37,23
+Arizona Cardinals,Minnesota Vikings,21,41,Minnesota Vikings -16.5,52.5 (over),74,188,41,28
+Jacksonville Jaguars,New York Jets,24,34,New York Jets -9.0,43.0 (over),95,151,31,36
+Atlanta Falcons,Minnesota Vikings,30,27,Minnesota Vikings -11.0,55.5 (over),110,102,43,48
+New York Jets,Denver Broncos,10,23,Denver Broncos -9.0,50.5 (under),14,178,52,34
+Denver Broncos,Atlanta Falcons,34,19,Denver Broncos -7.5,52.0 (over),121,131,29,35
+Buffalo Bills,Tennessee Titans,16,22,Tennessee Titans -5.0,39.0 (under),123,139,22,24
+Detroit Lions,Washington Redskins,13,27,Washington Redskins -6.0,46.0 (under),45,223,46,31
+Miami Dolphins,Seattle Seahawks,20,17,Seattle Seahawks -3.5,39.0 (under),108,41,30,30
+Dallas Cowboys,Minnesota Vikings,10,27,Minnesota Vikings -7.0,46.5 (under),111,175,38,25
+Miami Dolphins,Jacksonville Jaguars,7,62,Jacksonville Jaguars -8.0,37.5 (over),21,257,41,20
+Washington Redskins,Tampa Bay Buccaneers,13,14,Tampa Bay Buccaneers -4.5,38.0 (under),46,44,32,32
+Minnesota Vikings,St. Louis Rams,37,49,St. Louis Rams -7.0,52.0 (over),87,31,50,33
+Tennessee Titans,Indianapolis Colts,19,16,Indianapolis Colts -5.5,46.5 (under),197,78,24,43
+Tampa Bay Buccaneers,St. Louis Rams,6,11,St. Louis Rams -14.0,46.0 (under),77,51,29,43
+Tennessee Titans,Jacksonville Jaguars,33,14,Jacksonville Jaguars -7.0,39.5 (over),177,144,23,38
+St. Louis Rams,Tennessee Titans,23,16,St. Louis Rams -7.0,48.0 (under),29,159,45,36
+Indianapolis Colts,Miami Dolphins,17,23,Indianapolis Colts -1.5,42.0 (under),99,258,32,34
+St. Louis Rams,New Orleans Saints,28,31,St. Louis Rams -5.5,55.0 (over),34,50,40,29
+Tampa Bay Buccaneers,Philadelphia Eagles,3,21,Tampa Bay Buccaneers -3.0,34.0 (under),50,126,31,33
+Denver Broncos,Baltimore Ravens,3,21,Baltimore Ravens -3.5,41.0 (under),42,122,38,15
+New Orleans Saints,Minnesota Vikings,16,34,Minnesota Vikings -8.0,49.5 (over),69,127,48,31
+Miami Dolphins,Oakland Raiders,0,27,Oakland Raiders -9.0,42.0 (under),40,140,37,18
+Philadelphia Eagles,New York Giants,10,20,New York Giants -4.5,33.5 (under),46,112,41,19
+Baltimore Ravens,Tennessee Titans,24,10,Tennessee Titans -6.0,34.0 (push),49,126,17,47
+Minnesota Vikings,New York Giants,0,41,Minnesota Vikings -1.0,41.5 (under),54,138,28,40
+Baltimore Ravens,Oakland Raiders,16,3,Oakland Raiders -6.0,38.0 (under),110,24,18,37
+Baltimore Ravens,New York Giants,34,7,Baltimore Ravens -3.0,33.0 (over),111,66,26,39
+Tampa Bay Buccaneers,Philadelphia Eagles,9,31,Philadelphia Eagles -3.5,33.0 (over),63,148,36,25
+New York Jets,Oakland Raiders,24,38,Oakland Raiders -4.5,42.0 (over),145,215,40,29
+San Francisco 49ers,Green Bay Packers,15,25,Green Bay Packers -3.5,39.0 (over),71,106,32,29
+Baltimore Ravens,Miami Dolphins,20,3,Miami Dolphins -2.5,33.0 (under),226,46,18,28
+Oakland Raiders,New England Patriots,13,16,New England Patriots -3.0,41.5 (under),77,68,31,52
+Philadelphia Eagles,Chicago Bears,33,19,Chicago Bears -3.0,32.5 (over),87,111,40,22
+Baltimore Ravens,Pittsburgh Steelers,10,27,Pittsburgh Steelers -5.5,32.0 (over),22,154,37,22
+Green Bay Packers,St. Louis Rams,17,45,St. Louis Rams -11.0,54.5 (over),118,91,44,30
+New England Patriots,Pittsburgh Steelers,24,17,Pittsburgh Steelers -10.0,35.5 (over),67,58,39,42
+Philadelphia Eagles,St. Louis Rams,24,29,St. Louis Rams -11.0,51.0 (over),110,161,30,33
+St. Louis Rams,New England Patriots,17,20,St. Louis Rams -14.0,52.5 (under),90,133,44,27
+Atlanta Falcons,Green Bay Packers,27,7,Green Bay Packers -6.5,40.5 (under),192,56,25,42
+Indianapolis Colts,New York Jets,0,41,New York Jets -6.0,42.0 (under),52,180,31,25
+Cleveland Browns,Pittsburgh Steelers,33,36,Pittsburgh Steelers -8.0,43.0 (over),38,89,43,48
+New York Giants,San Francisco 49ers,38,39,San Francisco 49ers -3.0,41.0 (over),119,90,44,45
+Pittsburgh Steelers,Tennessee Titans,31,34,Tennessee Titans -4.5,44.0 (over),67,99,42,45
+Atlanta Falcons,Philadelphia Eagles,6,20,Philadelphia Eagles -7.5,38.5 (under),93,91,39,30
+New York Jets,Oakland Raiders,10,30,Oakland Raiders -5.5,47.0 (under),120,127,47,30
+San Francisco 49ers,Tampa Bay Buccaneers,6,31,Tampa Bay Buccaneers -6.0,39.5 (under),62,121,41,32
+Tennessee Titans,Oakland Raiders,24,41,Oakland Raiders -9.0,46.0 (over),138,89,36,41
+Tampa Bay Buccaneers,Philadelphia Eagles,27,10,Philadelphia Eagles -4.0,33.5 (over),49,80,33,49
+Tampa Bay Buccaneers,Oakland Raiders,48,21,Oakland Raiders -3.5,44.0 (over),150,19,34,44
+Dallas Cowboys,Carolina Panthers,10,29,Carolina Panthers -3.0,34.0 (over),72,107,36,29
+Tennessee Titans,Baltimore Ravens,20,17,Tennessee Titans -1.0,38.0 (under),165,54,23,37
+Denver Broncos,Indianapolis Colts,10,41,Indianapolis Colts -3.0,49.0 (over),146,85,30,31
+Seattle Seahawks,Green Bay Packers,27,33,Green Bay Packers -7.5,43.5 (over),49,78,45,38
+Tennessee Titans,New England Patriots,14,17,New England Patriots -6.0,34.0 (under),84,96,26,41
+Carolina Panthers,St. Louis Rams,29,23,St. Louis Rams -7.0,46.0 (over),216,64,27,46
+Green Bay Packers,Philadelphia Eagles,17,20,Philadelphia Eagles -4.0,43.0 (under),210,164,28,39
+Indianapolis Colts,Kansas City Chiefs,38,31,Kansas City Chiefs -3.0,53.0 (over),142,196,30,30
+Indianapolis Colts,New England Patriots,14,24,New England Patriots -3.5,42.0 (under),98,112,47,37
+Carolina Panthers,Philadelphia Eagles,14,3,Philadelphia Eagles -4.0,36.5 (under),155,137,14,36
+New England Patriots,Carolina Panthers,32,29,New England Patriots -7.0,38.0 (over),127,92,48,33
+New York Jets,San Diego Chargers,20,17,San Diego Chargers -6.5,42.5 (under),126,100,33,42
+St. Louis Rams,Seattle Seahawks,27,20,Seattle Seahawks -4.0,51.0 (under),102,81,32,43
+Denver Broncos,Indianapolis Colts,24,49,Indianapolis Colts -10.0,56.0 (over),78,76,34,33
+Minnesota Vikings,Green Bay Packers,31,17,Green Bay Packers -6.0,52.5 (under),123,105,29,33
+St. Louis Rams,Atlanta Falcons,17,47,Atlanta Falcons -6.5,49.0 (over),77,327,35,17
+New York Jets,Pittsburgh Steelers,17,20,Pittsburgh Steelers -9.0,35.5 (over),110,193,33,30
+Indianapolis Colts,New England Patriots,3,20,New England Patriots -1.0,51.0 (under),46,210,42,27
+Minnesota Vikings,Philadelphia Eagles,14,27,Philadelphia Eagles -8.0,47.0 (under),97,109,47,33
+New England Patriots,Pittsburgh Steelers,41,27,New England Patriots -3.0,36.5 (over),126,163,21,24
+Atlanta Falcons,Philadelphia Eagles,10,27,Philadelphia Eagles -6.0,37.0 (push),99,156,24,27
+Philadelphia Eagles,New England Patriots,21,24,New England Patriots -7.0,47.0 (under),45,112,51,33
+Jacksonville Jaguars,New England Patriots,3,28,New England Patriots -8.0,37.5 (under),87,118,39,27
+Washington Redskins,Tampa Bay Buccaneers,17,10,Tampa Bay Buccaneers -2.5,37.5 (under),95,75,16,38
+Carolina Panthers,New York Giants,23,0,New York Giants -3.0,43.5 (under),223,41,22,18
+Pittsburgh Steelers,Cincinnati Bengals,31,17,Pittsburgh Steelers -3.0,44.0 (over),144,84,21,41
+New England Patriots,Denver Broncos,13,27,Denver Broncos -3.0,44.0 (under),79,96,36,26
+Washington Redskins,Seattle Seahawks,10,20,Seattle Seahawks -8.5,41.0 (under),59,119,38,26
+Carolina Panthers,Chicago Bears,29,21,Chicago Bears -3.0,31.0 (over),123,97,33,41
+Pittsburgh Steelers,Indianapolis Colts,21,18,Indianapolis Colts -8.5,46.5 (under),112,58,24,38
+Carolina Panthers,Seattle Seahawks,14,34,Seattle Seahawks -5.5,43.0 (over),36,190,35,28
+Pittsburgh Steelers,Denver Broncos,34,17,Denver Broncos -3.5,41.0 (over),90,97,29,30
+Seattle Seahawks,Pittsburgh Steelers,10,21,Pittsburgh Steelers -4.0,47.0 (under),137,181,49,22
+Kansas City Chiefs,Indianapolis Colts,8,23,Indianapolis Colts -6.5,51.0 (under),44,188,24,39
+Dallas Cowboys,Seattle Seahawks,20,21,Seattle Seahawks -2.0,48.5 (under),116,92,29,36
+New York Jets,New England Patriots,16,37,New England Patriots -9.0,38.5 (over),70,158,41,34
+New York Giants,Philadelphia Eagles,20,23,Philadelphia Eagles -6.0,46.5 (under),151,185,27,31
+Philadelphia Eagles,New Orleans Saints,24,27,New Orleans Saints -4.5,48.5 (over),123,208,30,32
+Indianapolis Colts,Baltimore Ravens,15,6,Baltimore Ravens -4.0,41.0 (under),100,83,30,29
+Seattle Seahawks,Chicago Bears,24,27,Chicago Bears -8.5,37.5 (over),127,120,33,38
+New England Patriots,San Diego Chargers,24,21,San Diego Chargers -5.0,46.5 (under),51,148,51,32
+New Orleans Saints,Chicago Bears,14,39,Chicago Bears -3.0,43.0 (over),56,196,49,26
+New England Patriots,Indianapolis Colts,34,38,Indianapolis Colts -3.0,47.0 (over),93,125,34,47
+Indianapolis Colts,Chicago Bears,29,17,Indianapolis Colts -6.5,47.0 (under),191,111,38,28
+Jacksonville Jaguars,Pittsburgh Steelers,31,29,Jacksonville Jaguars -2.5,40.0 (over),135,43,21,42
+Washington Redskins,Seattle Seahawks,14,35,Seattle Seahawks -3.5,38.5 (over),75,77,50,32
+New York Giants,Tampa Bay Buccaneers,24,14,Tampa Bay Buccaneers -3.0,39.5 (under),100,69,27,39
+Tennessee Titans,San Diego Chargers,6,17,San Diego Chargers -10.0,39.0 (under),119,68,29,30
+Seattle Seahawks,Green Bay Packers,20,42,Green Bay Packers -7.5,44.0 (over),28,235,33,23
+Jacksonville Jaguars,New England Patriots,20,31,New England Patriots -13.5,51.5 (under),80,145,33,28
+New York Giants,Dallas Cowboys,21,17,Dallas Cowboys -7.0,47.5 (under),90,154,18,36
+San Diego Chargers,Indianapolis Colts,28,24,Indianapolis Colts -11.0,47.0 (over),99,44,23,48
+San Diego Chargers,New England Patriots,12,21,New England Patriots -14.0,48.0 (under),104,149,37,33
+New York Giants,Green Bay Packers,23,20,Green Bay Packers -7.5,41.5 (over),134,28,40,35
+New York Giants,New England Patriots,17,14,New England Patriots -12.5,54.5 (under),91,45,34,48
+Atlanta Falcons,Arizona Cardinals,24,30,Arizona Cardinals -2.0,52.0 (over),60,86,40,32
+Indianapolis Colts,San Diego Chargers,17,23,Indianapolis Colts -2.5,50.0 (under),64,167,42,36
+Philadelphia Eagles,Minnesota Vikings,26,14,Philadelphia Eagles -3.5,41.0 (under),67,148,34,35
+Baltimore Ravens,Miami Dolphins,27,9,Baltimore Ravens -3.5,38.0 (under),151,52,23,38
+Arizona Cardinals,Carolina Panthers,33,13,Carolina Panthers -10.0,49.5 (under),145,75,32,34
+Baltimore Ravens,Tennessee Titans,13,10,Tennessee Titans -3.0,33.5 (under),50,116,22,42
+San Diego Chargers,Pittsburgh Steelers,24,35,Pittsburgh Steelers -6.5,38.5 (over),15,165,35,27
+Philadelphia Eagles,New York Giants,23,11,New York Giants -4.0,39.0 (under),59,138,40,29
+Baltimore Ravens,Pittsburgh Steelers,14,23,Pittsburgh Steelers -6.0,35.5 (over),73,52,30,33
+Philadelphia Eagles,Arizona Cardinals,25,32,Philadelphia Eagles -3.5,47.0 (over),97,102,47,28
+Pittsburgh Steelers,Arizona Cardinals,27,23,Pittsburgh Steelers -6.5,46.5 (over),58,33,30,43
+Philadelphia Eagles,Dallas Cowboys,14,34,Dallas Cowboys -3.5,46.0 (over),56,198,39,35
+New York Jets,Cincinnati Bengals,24,14,Cincinnati Bengals -2.5,34.5 (over),171,171,15,36
+Green Bay Packers,Arizona Cardinals,45,51,Green Bay Packers -2.5,48.0 (over),89,156,42,33
+Baltimore Ravens,New England Patriots,33,14,New England Patriots -4.0,44.0 (over),234,64,10,42
+Baltimore Ravens,Indianapolis Colts,3,20,Indianapolis Colts -6.5,44.0 (under),87,42,35,44
+Arizona Cardinals,New Orleans Saints,14,45,New Orleans Saints -7.0,57.0 (over),101,171,36,32
+Dallas Cowboys,Minnesota Vikings,3,34,Minnesota Vikings -2.5,45.0 (under),92,109,35,24
+New York Jets,San Diego Chargers,17,14,San Diego Chargers -9.0,42.5 (under),169,61,23,40
+New York Jets,Indianapolis Colts,17,30,Indianapolis Colts -8.5,40.5 (over),86,101,31,39
+Minnesota Vikings,New Orleans Saints,28,31,New Orleans Saints -3.5,54.0 (over),165,68,46,31
+New Orleans Saints,Indianapolis Colts,31,17,Indianapolis Colts -4.5,56.5 (under),51,99,39,45
+New York Jets,Indianapolis Colts,17,16,Indianapolis Colts -2.0,44.5 (under),169,93,31,26
+New Orleans Saints,Seattle Seahawks,36,41,New Orleans Saints -10.0,46.0 (over),77,150,60,35
+Green Bay Packers,Philadelphia Eagles,21,16,Philadelphia Eagles -2.5,47.0 (under),138,81,27,36
+Baltimore Ravens,Kansas City Chiefs,30,7,Baltimore Ravens -3.0,41.0 (under),142,108,34,18
+Baltimore Ravens,Pittsburgh Steelers,24,31,Pittsburgh Steelers -3.0,37.0 (over),35,71,30,32
+Green Bay Packers,Atlanta Falcons,48,21,Atlanta Falcons -1.5,43.5 (over),96,45,36,29
+Seattle Seahawks,Chicago Bears,24,35,Chicago Bears -10.0,43.0 (over),34,176,46,29
+New York Jets,New England Patriots,28,21,New England Patriots -9.5,45.0 (over),120,113,25,45
+New York Jets,Pittsburgh Steelers,19,24,Pittsburgh Steelers -4.0,38.0 (over),70,166,33,19
+Green Bay Packers,Chicago Bears,21,14,Green Bay Packers -3.5,42.5 (under),120,83,30,38
+Pittsburgh Steelers,Green Bay Packers,25,31,Green Bay Packers -3.0,45.0 (over),126,50,40,39
+Cincinnati Bengals,Houston Texans,10,31,Houston Texans -4.0,38.0 (over),76,188,42,20
+Detroit Lions,New Orleans Saints,28,45,New Orleans Saints -10.5,60.0 (over),32,167,43,43
+Pittsburgh Steelers,Denver Broncos,23,29,Pittsburgh Steelers -7.5,34.0 (over),156,131,40,21
+Atlanta Falcons,New York Giants,2,24,New York Giants -3.0,48.0 (under),64,172,41,32
+Denver Broncos,New England Patriots,10,45,New England Patriots -13.5,50.0 (over),144,146,26,34
+New Orleans Saints,San Francisco 49ers,32,36,New Orleans Saints -3.5,47.0 (over),37,143,63,42
+Houston Texans,Baltimore Ravens,13,20,Baltimore Ravens -8.0,37.5 (under),131,87,35,27
+New York Giants,Green Bay Packers,37,20,Green Bay Packers -8.0,54.5 (over),95,147,33,46
+Baltimore Ravens,New England Patriots,20,23,New England Patriots -7.0,50.0 (under),116,96,36,36
+New York Giants,San Francisco 49ers,20,17,San Francisco 49ers -2.0,41.5 (under),85,150,58,26
+New York Giants,New England Patriots,21,17,New England Patriots -3.0,53.5 (under),114,83,40,41
+Minnesota Vikings,Green Bay Packers,10,24,Green Bay Packers -11.0,44.5 (under),167,76,30,33
+Cincinnati Bengals,Houston Texans,13,19,Houston Texans -4.0,42.5 (under),80,158,30,38
+Indianapolis Colts,Baltimore Ravens,9,24,Baltimore Ravens -7.0,47.0 (under),152,170,54,23
+Seattle Seahawks,Washington Redskins,24,14,Seattle Seahawks -3.0,45.0 (under),224,104,26,29
+Green Bay Packers,San Francisco 49ers,31,45,San Francisco 49ers -3.0,45.5 (over),104,323,39,31
+Baltimore Ravens,Denver Broncos,38,35,Denver Broncos -9.0,44.5 (over),155,125,34,43
+Seattle Seahawks,Atlanta Falcons,28,30,Atlanta Falcons -3.0,47.0 (over),123,167,36,35
+Houston Texans,New England Patriots,28,41,New England Patriots -9.5,51.0 (over),91,122,51,40
+San Francisco 49ers,Atlanta Falcons,28,24,San Francisco 49ers -4.5,49.0 (over),149,81,21,42
+Baltimore Ravens,New England Patriots,28,13,New England Patriots -7.5,51.5 (under),121,108,36,54
+San Francisco 49ers,Baltimore Ravens,31,34,San Francisco 49ers -4.5,48.0 (over),182,93,28,33
+Kansas City Chiefs,Indianapolis Colts,44,45,Kansas City Chiefs -2.5,48.0 (over),150,100,46,45
+New Orleans Saints,Philadelphia Eagles,26,24,Philadelphia Eagles -3.0,54.5 (under),185,80,30,33
+San Diego Chargers,Cincinnati Bengals,27,10,Cincinnati Bengals -6.0,47.5 (under),196,113,16,51
+San Francisco 49ers,Green Bay Packers,23,20,San Francisco 49ers -3.0,46.5 (under),167,124,30,26
+Indianapolis Colts,New England Patriots,22,43,New England Patriots -7.0,51.0 (over),69,234,41,25
+New Orleans Saints,Seattle Seahawks,15,23,Seattle Seahawks -9.0,44.0 (under),108,174,43,18
+San Diego Chargers,Denver Broncos,17,24,Denver Broncos -7.5,55.0 (under),65,133,27,36
+San Francisco 49ers,Carolina Panthers,23,10,San Francisco 49ers -1.0,41.0 (under),126,93,30,25
+New England Patriots,Denver Broncos,16,26,Denver Broncos -5.0,56.5 (under),64,107,38,43
+San Francisco 49ers,Seattle Seahawks,17,23,Seattle Seahawks -4.0,40.5 (under),161,115,24,25
+Seattle Seahawks,Denver Broncos,43,8,Denver Broncos -2.5,47.5 (over),135,27,26,49
+Arizona Cardinals,Carolina Panthers,16,27,Carolina Panthers -6.5,37.5 (over),27,188,28,32
+Baltimore Ravens,Pittsburgh Steelers,30,17,Pittsburgh Steelers -3.0,45.0 (over),53,68,29,48
+Cincinnati Bengals,Indianapolis Colts,10,26,Indianapolis Colts -3.0,48.0 (under),110,114,35,44
+Detroit Lions,Dallas Cowboys,20,24,Dallas Cowboys -6.5,48.5 (under),90,73,42,31
+Baltimore Ravens,New England Patriots,31,35,New England Patriots -7.0,47.5 (over),136,14,45,51
+Carolina Panthers,Seattle Seahawks,17,31,Seattle Seahawks -11.5,39.5 (over),132,100,36,22
+Dallas Cowboys,Green Bay Packers,21,26,Green Bay Packers -6.0,51.5 (under),145,119,19,35
+Indianapolis Colts,Denver Broncos,24,13,Denver Broncos -7.0,53.5 (under),99,88,43,46
+Indianapolis Colts,New England Patriots,7,45,New England Patriots -7.0,52.0 (push),83,177,33,35
+Green Bay Packers,Seattle Seahawks,22,28,Seattle Seahawks -8.5,45.0 (over),135,194,34,30
+Seattle Seahawks,New England Patriots,24,28,Pick,47.0 (over),162,57,21,50
+Kansas City Chiefs,Houston Texans,30,0,Kansas City Chiefs -3.0,40.0 (under),141,114,22,34
+Pittsburgh Steelers,Cincinnati Bengals,18,16,Pittsburgh Steelers -3.0,45.0 (under),167,91,36,41
+Green Bay Packers,Washington Redskins,35,18,Washington Redskins -1.0,46.0 (over),141,84,36,46
+Seattle Seahawks,Minnesota Vikings,10,9,Seattle Seahawks -4.5,40.0 (under),97,58,26,24
+Green Bay Packers,Arizona Cardinals,20,26,Arizona Cardinals -7.0,49.0 (under),135,40,44,41
+Kansas City Chiefs,New England Patriots,20,27,New England Patriots -4.5,43.0 (over),135,38,50,42
+Seattle Seahawks,Carolina Panthers,24,31,Carolina Panthers -2.5,44.0 (over),78,144,48,22
+Pittsburgh Steelers,Denver Broncos,16,23,Denver Broncos -7.5,41.0 (under),85,109,37,37
+Arizona Cardinals,Carolina Panthers,15,49,Carolina Panthers -3.0,47.5 (over),60,152,41,28
+New England Patriots,Denver Broncos,18,20,New England Patriots -3.0,44.5 (under),44,99,56,32
+Denver Broncos,Carolina Panthers,24,10,Carolina Panthers -5.0,44.0 (under),90,118,23,41
+Oakland Raiders,Houston Texans,14,27,Houston Texans -4.0,38.0 (over),64,123,45,25
+Detroit Lions,Seattle Seahawks,6,26,Seattle Seahawks -8.0,45.5 (under),49,177,32,30
+New York Giants,Green Bay Packers,13,38,Green Bay Packers -5.0,46.5 (over),70,75,44,40
+Miami Dolphins,Pittsburgh Steelers,12,30,Pittsburgh Steelers -11.0,47.5 (under),52,179,36,18
+Seattle Seahawks,Atlanta Falcons,20,36,Atlanta Falcons -6.5,51.0 (over),101,99,30,37
+Houston Texans,New England Patriots,16,34,New England Patriots -16.0,44.0 (over),105,98,40,38
+Green Bay Packers,Dallas Cowboys,34,31,Dallas Cowboys -5.5,52.5 (over),87,138,43,38
+Pittsburgh Steelers,Kansas City Chiefs,18,16,Kansas City Chiefs -2.5,45.5 (under),171,61,31,34
+Green Bay Packers,Atlanta Falcons,21,44,Atlanta Falcons -6.5,59.5 (over),99,101,45,38
+Pittsburgh Steelers,New England Patriots,17,36,New England Patriots -5.5,50.0 (over),54,57,47,42
+New England Patriots,Atlanta Falcons,34,28,New England Patriots -3.0,57.0 (over),104,104,63,23
+Atlanta Falcons,Los Angeles Rams,26,13,Los Angeles Rams -6.5,48.0 (under),124,115,30,45
+Tennessee Titans,Kansas City Chiefs,22,21,Kansas City Chiefs -8.5,44.0 (under),202,69,31,33
+Buffalo Bills,Jacksonville Jaguars,3,10,Jacksonville Jaguars -8.0,39.5 (under),130,155,40,23
+Carolina Panthers,New Orleans Saints,26,31,New Orleans Saints -6.5,47.5 (over),107,41,41,33
+Tennessee Titans,New England Patriots,14,35,New England Patriots -13.5,48.5 (over),65,101,37,53
+Atlanta Falcons,Philadelphia Eagles,10,15,Atlanta Falcons -2.5,40.0 (under),86,96,36,30
+New Orleans Saints,Minnesota Vikings,24,29,Minnesota Vikings -5.5,46.5 (over),80,95,41,40
+Jacksonville Jaguars,Pittsburgh Steelers,45,42,Pittsburgh Steelers -7.0,40.5 (over),164,83,26,58
+Jacksonville Jaguars,New England Patriots,20,24,New England Patriots -7.5,46.0 (under),101,46,36,39
+Minnesota Vikings,Philadelphia Eagles,7,38,Minnesota Vikings -3.0,39.0 (over),70,110,48,33
+Philadelphia Eagles,New England Patriots,41,33,New England Patriots -4.5,48.5 (over),164,113,44,49
+Indianapolis Colts,Houston Texans,21,7,Houston Texans -2.0,48.5 (under),200,105,32,49
+Seattle Seahawks,Dallas Cowboys,22,24,Dallas Cowboys -2.5,43.0 (over),73,164,27,33
+Philadelphia Eagles,Chicago Bears,16,15,Chicago Bears -6.5,41.5 (under),42,65,40,43
+Los Angeles Chargers,Baltimore Ravens,23,17,Baltimore Ravens -3.0,43.0 (under),89,90,32,29
+Indianapolis Colts,Kansas City Chiefs,13,31,Kansas City Chiefs -4.0,54.0 (under),87,180,36,41
+Dallas Cowboys,Los Angeles Rams,22,30,Los Angeles Rams -7.5,48.0 (over),50,273,32,28
+Philadelphia Eagles,New Orleans Saints,14,20,New Orleans Saints -8.5,52.0 (under),49,137,31,38
+Los Angeles Chargers,New England Patriots,28,41,New England Patriots -3.5,47.5 (over),19,155,51,44
+New England Patriots,Kansas City Chiefs,37,31,Kansas City Chiefs -3.0,56.0 (over),176,41,46,31
+Los Angeles Rams,New Orleans Saints,26,23,New Orleans Saints -3.0,55.5 (under),77,48,41,41
+Los Angeles Rams,New England Patriots,3,13,New England Patriots -2.0,55.5 (under),62,154,38,35
+Buffalo Bills,Houston Texans,19,22,Houston Texans -2.5,43.0 (under),172,141,48,25
+Tennessee Titans,New England Patriots,20,13,New England Patriots -4.5,45.0 (under),201,98,16,37
+Minnesota Vikings,New Orleans Saints,26,20,New Orleans Saints -7.5,50.0 (under),136,97,31,34
+Seattle Seahawks,Philadelphia Eagles,17,9,Philadelphia Eagles -1.0,44.0 (under),64,120,30,28
+Minnesota Vikings,San Francisco 49ers,10,27,San Francisco 49ers -7.0,44.5 (under),21,186,29,19
+Tennessee Titans,Baltimore Ravens,28,12,Baltimore Ravens -10.0,47.5 (under),217,185,15,59
+Houston Texans,Kansas City Chiefs,31,51,Kansas City Chiefs -10.0,50.5 (over),94,118,52,35
+Seattle Seahawks,Green Bay Packers,23,28,Green Bay Packers -4.5,46.0 (over),110,109,31,27
+Tennessee Titans,Kansas City Chiefs,24,35,Kansas City Chiefs -7.5,51.0 (over),85,112,32,35
+Green Bay Packers,San Francisco 49ers,20,37,San Francisco 49ers -8.0,46.5 (over),62,285,39,8
+San Francisco 49ers,Kansas City Chiefs,20,31,Kansas City Chiefs -1.5,52.5 (under),141,129,31,42
+Indianapolis Colts,Buffalo Bills,24,27,Buffalo Bills -7.0,50.5 (over),163,96,46,35
+Los Angeles Rams,Seattle Seahawks,30,20,Seattle Seahawks -3.0,42.5 (over),164,136,25,27
+Tampa Bay Buccaneers,Washington Football Team,31,23,Tampa Bay Buccaneers -10.0,45.0 (over),142,86,40,44
+Cleveland Browns,Pittsburgh Steelers,48,37,Pittsburgh Steelers -5.0,47.0 (over),127,52,34,68
+Chicago Bears,New Orleans Saints,9,21,New Orleans Saints -11.0,48.0 (under),48,123,29,39
+Baltimore Ravens,Tennessee Titans,20,13,Baltimore Ravens -3.5,53.5 (under),236,51,24,26
+Los Angeles Rams,Green Bay Packers,18,32,Green Bay Packers -7.0,45.0 (over),96,188,27,36
+Baltimore Ravens,Buffalo Bills,3,17,Buffalo Bills -2.5,49.5 (under),150,32,37,37
+Cleveland Browns,Kansas City Chiefs,17,22,Kansas City Chiefs -7.5,55.5 (under),112,123,37,38
+Tampa Bay Buccaneers,New Orleans Saints,30,20,New Orleans Saints -2.5,53.0 (under),127,104,33,35
+Buffalo Bills,Kansas City Chiefs,24,38,Kansas City Chiefs -3.0,55.0 (over),129,114,48,38
+Tampa Bay Buccaneers,Green Bay Packers,31,26,Green Bay Packers -3.0,53.0 (over),76,67,36,48
+Tampa Bay Buccaneers,Kansas City Chiefs,31,9,Kansas City Chiefs -3.0,54.5 (under),145,107,29,49
